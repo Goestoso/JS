@@ -1,2 +1,2 @@
-# WebDevelopment
-Repository to study web development using JavaScript.
+# Web Development
+Developing web applications with JavaScript.
